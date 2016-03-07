@@ -22,6 +22,6 @@ public class Factorial {
         {
             return 0;
         }else
-            return n + calcFactorial(n-1);
+            return n + calcFactorial(n-1); //check the factorial here
     }
 }

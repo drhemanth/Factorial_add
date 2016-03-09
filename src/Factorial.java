@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Created by deepdoradla on 07/03/2016.
+ * Created by  hemanth on 07/03/2016.
  */
 public class Factorial {
 
